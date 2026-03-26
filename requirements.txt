@@ -1,4 +1,4 @@
-requests==2.32.0
+requests==2.33.0
 requests_ntlm [NTLMAuthentication]
 setuptools==70.1.1
 msal==1.28.0
